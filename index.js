@@ -60,7 +60,7 @@ layOutDay([ {start: 30, end: 150}, {start: 540, end: 600}, {start: 560, end: 620
 console.log(`The function 'layOutDay' is
   available to be invoked.
   layOutDay expects an array of
-  events that has the properties
+  objects that have the properties
   'start' and 'end'. However, 
   it can also accept events
   with the propertiies of 
