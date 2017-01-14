@@ -1,4 +1,7 @@
 # day-calendar
+View project at https://kiraknowsbest.github.io/day-calendar/ and 
+open your browser's console to customize events.
+
 A calendar that displays events for the day. 
 
 Using the console in your browser, you can 
